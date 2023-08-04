@@ -1,4 +1,4 @@
-ame: quickstart
+name: quickstart
 runtime: yaml
 description: A minimal AWS Pulumi YAML program
 outputs:
